@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<ApplicationIcon>Shit.ico</ApplicationIcon>
+		<AssemblyVersion>2.2.2.0</AssemblyVersion>	
+	</PropertyGroup>
+	<PropertyGroup>
+		<PackageId>AddXMapEndpoints</PackageId>
+		<Version>2.2.2</Version>
+		<Authors>Luca Perissini</Authors>
+		<Company>Mya</Company>
+		<Description>Automatically generate Minimal API (with or without [Authorize] attribute) based on your DTO's (or on your EF models) with CRUD and 'dynamic query' features.</Description>
+		<PackageReadmeFile>readme.md</PackageReadmeFile>
+		<PackageTags>MINIMAL API DTO SQL SERVER CRUD AUTHORIZATION AUTHENTICATION DYNAMIC LINQ EF ENTITY FRAMEWORK</PackageTags>		
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Include="readme.md" Pack="true" PackagePath="\" />
+	</ItemGroup>
+  <ItemGroup>
+    <Content Include="Shit.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="readme.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+		<PackageReference Include="AutoMapper" Version="13.0.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.2" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="System.Linq.Dynamic.Core" Version="1.3.9" />
+	</ItemGroup>
+</Project>

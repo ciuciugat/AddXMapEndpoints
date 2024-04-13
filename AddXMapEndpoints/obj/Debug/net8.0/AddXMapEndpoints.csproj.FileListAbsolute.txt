@@ -1,0 +1,15 @@
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\bin\Debug\net8.0\readme.md
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\bin\Debug\net8.0\AddXMapEndpoints.deps.json
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\bin\Debug\net8.0\AddXMapEndpoints.dll
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\bin\Debug\net8.0\AddXMapEndpoints.pdb
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.csproj.AssemblyReference.cache
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.AssemblyInfoInputs.cache
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.AssemblyInfo.cs
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.csproj.CoreCompileInputs.cache
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.sourcelink.json
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.dll
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\refint\AddXMapEndpoints.dll
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\AddXMapEndpoints.pdb
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\obj\Debug\net8.0\ref\AddXMapEndpoints.dll
+C:\Users\perissini_l\source\repos\RazorClassLibraryXMap\AddXMapEndpoints\bin\Debug\net8.0\Shit.ico
